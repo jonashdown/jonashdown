@@ -1,4 +1,4 @@
 # Jon Ashdown
 
 ## About Me
-Senior Software Engineer, specialising in Search. 
+Senior Software Engineer, specialising in big data. 
