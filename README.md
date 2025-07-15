@@ -1,10 +1,11 @@
 # Jon Ashdown
 
 ## About Me
-Senior Software Engineer/Software Team lead, specialising in big data. 
+Senior Software Engineer/Software Team lead, specialising in complex systems using javascript and AWS
 
-Please head over to my [github pages](https://jonashdown.github.io/) to learn more
+Please have a look at my [blog](https://dev.to/jonashdown) where I write about my experiences in software development.
 
-<a href="https://app.daily.dev/jonashdown"><img src="https://api.daily.dev/devcards/v2/7tjYFqTMshTvhYIlWMbwz.png?type=default&r=g5j" width="356" alt="Jon Ashdown's Dev Card"/></a>
+Please head over to my [github pages](https://jonashdown.github.io/) to learn more.
+
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y1HG7Q3)
